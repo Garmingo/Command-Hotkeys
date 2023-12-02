@@ -1,0 +1,3 @@
+{
+"Commands": { "test":249 } /*First argument is the command to be executed, second is the hotkey*/
+}
